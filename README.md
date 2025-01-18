@@ -19,7 +19,9 @@ Outliers were detected and handled to reduce noise in the dataset, improving mod
 Multiple machine learning algorithms were explored to identify the most suitable model for fraud detection:
 
 Logistic Regression
+
 Decision Trees
+
 Random Forest
 
 Hyperparameter tuning was performed to optimize each model.
