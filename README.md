@@ -25,8 +25,8 @@ Random Forest
 Hyperparameter tuning was performed to optimize each model.
 
 # Evaluation Metrics
-To ensure reliable fraud detection, the following metrics were used:
-Accuracy: Overall correctness of the model.
+To ensure reliable fraud detection, the following metrics were used: 	
+Accuracy: Overall correctness of the model.	
 AUC-ROC: Measures the trade-off between true positive and false positive rates.
 Precision: Proportion of true fraud cases among predicted frauds.
 Recall (Sensitivity): Proportion of actual fraud cases detected.
