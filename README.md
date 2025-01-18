@@ -5,9 +5,9 @@ The dataset used for Credit-Card Fraud detection is available on Kaggle. You can
 
 # Data Preprocessing
 The dataset underwent the following preprocessing steps:
-Handling Imbalanced Data: Techniques such as oversampling (SMOTE) or undersampling were applied to address class imbalance.
-Normalization: Features were scaled to ensure uniformity and improved algorithm performance.
-Data Splitting: The dataset was divided into training and testing sets to evaluate the model effectively.
+* Handling Imbalanced Data: Techniques such as oversampling (SMOTE) or undersampling were applied to address class imbalance.
+* Normalization: Features were scaled to ensure uniformity and improved algorithm performance.
+* Data Splitting: The dataset was divided into training and testing sets to evaluate the model effectively.
 
 # Outlier Detection
 Outliers were detected and handled to reduce noise in the dataset, improving model robustness.
