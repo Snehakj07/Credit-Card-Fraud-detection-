@@ -47,3 +47,7 @@ High Accuracy: Effectively distinguished between fraudulent and non-fraudulent t
 AUC-ROC: Demonstrated robust performance across thresholds.
 
 Minimized False Positives: Ensured legitimate transactions were not falsely flagged.
+
+# Contributing
+
+Contributions are welcome! If you have suggestions or find issues, feel free to open an issue or submit a pull request.
